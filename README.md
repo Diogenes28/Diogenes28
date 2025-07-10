@@ -5,7 +5,7 @@
 <div align="center">
   
   <p> < Análise e Desenvolvimento de Sistemas /> </p>
-  <p> < Desenvolvedor e IT Security Analyst C/> </p>
+  <p> < IT Security Analyst e Desenvolvedor /> </p>
   <p> < Javascript, HTML, CSS, Python, MySQL, PHP... /> </p>
 
   <br/>
