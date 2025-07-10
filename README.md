@@ -6,16 +6,16 @@
   
   <p> < Análise e Desenvolvimento de Sistemas /> </p>
   <p> < Desenvolvedor e IT Security Analyst C/> </p>
-  <p> <  PHP, Javascript, Python, HTML, CSS, MySQL... /> </p>
+  <p> < Javascript, HTML, CSS, Python, MySQL, PHP... /> </p>
 
   <br/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px"/>
 
   <br/><br/>
   <p>Para contato:</p>
