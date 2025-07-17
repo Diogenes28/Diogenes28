@@ -21,6 +21,8 @@
   <p>Para contato:</p>
   <a href="mailto:diogenesdocarmo@gmail.com">Gmail</a> / 
   <a href=https://www.linkedin.com/in/di%C3%B3genes-do-carmo-48044b187/>Linkedin</a>
+
+  ![Snake animation](https://github.com/Diogenes28/Diogenes28/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
