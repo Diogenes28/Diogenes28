@@ -20,8 +20,8 @@
       <p>🚀 Automatizo análises de segurança com integrações eficientes e bem documentadas</p>
       <p> “Tudo parece difícil... até a gente conseguir fazer pela primeira vez.”</p>
     </td>
-    <td valign="top" width="40%" align="right">
-      <img src="3d.gif" width="500" />
+    <td valign="top" width="80%" align="right">
+      <img src="3d.gif" width="400" />
     </td>
   </tr>
 </table>
