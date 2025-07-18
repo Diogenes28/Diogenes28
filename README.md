@@ -15,6 +15,9 @@ Sou de Ciber Security e desenvolvedor
 - 💙 Fã da Marvel
 - 👩‍💻 Aprendendo sempre
 
+
+<img src = "mario.gif" width = "100px" align = "right">
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
