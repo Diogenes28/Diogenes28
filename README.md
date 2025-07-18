@@ -5,10 +5,8 @@
 
 </div>
 
-<h2>
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" />
-  About Me
-</h2>
+<img src="https://github.com/diogenesdocarmo/portfolio/blob/main/3d.gif?raw=true" width="400" />
+
 
 
 Sou Desenvolvedor Front-end e atuo como Analista de Cibersegurança, área pela qual tenho me apaixonado cada vez mais.
