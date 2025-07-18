@@ -10,21 +10,18 @@
   About Me
 </h2>
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <p> -🙋‍♂️ Meu nome é <strong>Diogenes do Carmo</strong></p>
-      <p> -💻 Sou Desenvolvedor e Analista de Segurança da Informação, com foco prático em DevSecOps</p>
-      <p> -🛠️ Atuo na integração de segurança ao ciclo de desenvolvimento de software</p>
-      <p> -📦 Trabalho com SAST, SCA e DAST em pipelines CI/CD usando GitHub Actions e Azure DevOps</p>
-      <p> -🚀 Automatizo análises de segurança com integrações eficientes e bem documentadas</p>
-      <p> - “Tudo parece difícil... até a gente conseguir fazer pela primeira vez.”</p>
-    </td>
-    <td valign="top" width="40%" align="right">
-      <img src="3d.gif" width="400" />
-    </td>
-  </tr>
-</table>
+
+Sou Desenvolvedor Front-end e atuo como Analista de Cibersegurança, área pela qual tenho me apaixonado cada vez mais.
+
+Aprendo rápido e adoro explorar novas tecnologias. Sou um defensor do desenvolvimento ágil de software, trabalho em equipe, código limpo e bem comentado.
+
+Sou uma pessoa organizada, dedicada e muito apaixonada pelo que faço. Costumo sempre concluir meu trabalho até o fim, nunca desistindo no meio do caminho.
+
+Prefiro continuar aprendendo, me desafiando e criando coisas interessantes que realmente importam. Busco desenvolver expertise em diversas áreas ao longo da minha carreira e estou sempre aberto a novas oportunidades.
+
+Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de software (DevSecOps), com experiência em SAST, SCA e DAST, implementados em pipelines CI/CD utilizando GitHub Actions e Azure DevOps.
+
+"Tudo parece difícil... até conseguirmos fazer pela primeira vez".
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
