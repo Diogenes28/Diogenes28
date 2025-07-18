@@ -35,3 +35,16 @@ Sou de Ciber Security e desenvolvedor
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
+
+<br/>
+<span align="center">Because they are afraid to commit.</span>
+</p>
+
+<!-- Socials -->
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="href=https://www.linkedin.com/in/di%C3%B3genes-do-carmo-48044b187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun tiwari" height="30" width="40" /></a>
+<a href="https://www.instagram.com/diogenesdocarmo_/" target="blank"><img align="center" src="https://https://icons8.com/icons/set/azure" alt="varun tiwari" height="30" width="40" /></a>
+<a href="https://instagram.com/varuntiwari55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varuntiwari55" height="30" width="40" /></a>
+</p>
