@@ -1,5 +1,6 @@
 <div align="center">
-  rc="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=30&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Diogenes+do+Carmo;Bem-vindo+ao+meu+perfil+GitHub!;DevSecOps+na+prática+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=30&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Diogenes+do+Carmo;Bem-vindo+ao+meu+perfil+GitHub!;DevSecOps+na+prática+🚀" alt="Typing SVG" />
+
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
