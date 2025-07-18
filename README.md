@@ -7,11 +7,6 @@
   <p> < Análise e Desenvolvimento de Sistemas /> </p>
   <p> < IT Security Analyst e Desenvolvedor /> </p>
     
-<br>
-
-![](under-construction.gif)
-
-<br>
 
   ##
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
@@ -30,5 +25,7 @@
   
 </div>
 
+
+![](under-construction.gif)
 
 
