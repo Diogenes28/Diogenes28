@@ -1,13 +1,13 @@
-<img src = "3d.gif" width = "325px" align = "right">
-
 # ❤ Olá, bom ter você por aqui!
   <div id="badges">
-  <a href = "https://github.com/risoflorais">
+  <a href = "https://github.com/diogenes28">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" href="mailto:diogenesdocarmo@gmail.com" alt="Twitter Badge"/>
 </div>
+
+<img src = "3d.gif" width = "325px" align = "right">
 
 Sou de Ciber Security e desenvolvedor
 
