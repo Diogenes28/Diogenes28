@@ -1,3 +1,5 @@
+<img src = "mario.gif" width = "100px" align = "center">
+
 # ❤ Olá, bom ter você por aqui!
   <div id="badges">
   <a href = "https://github.com/diogenes28">
@@ -16,7 +18,6 @@ Sou de Ciber Security e desenvolvedor
 - 👩‍💻 Aprendendo sempre
 
 
-<img src = "mario.gif" width = "100px" align = "right">
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
