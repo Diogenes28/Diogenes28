@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" href="mailto:diogenesdocarmo@gmail.com" alt="Twitter Badge"/>
 </div>
 
-<img src = "pc.gif" width = "200px" align = "center">
+<img src = "pc.gif" width = "200px" align = "right">
 
 Sou de Ciber Security e desenvolvedor
 
