@@ -14,14 +14,14 @@
   <tr>
     <td valign="top" width="60%">
       <p>🙋‍♂️ Meu nome é <strong>Diogenes do Carmo</strong></p>
-      <p>💻 Sou Analista de Segurança da Informação, com foco prático em DevSecOps</p>
+      <p>💻 Sou Desenvolvedor e Analista de Segurança da Informação, com foco prático em DevSecOps</p>
       <p>🛠️ Atuo na integração de segurança ao ciclo de desenvolvimento de software</p>
       <p>📦 Trabalho com SAST, SCA e DAST em pipelines CI/CD usando GitHub Actions e Azure DevOps</p>
       <p>🚀 Automatizo análises de segurança com integrações eficientes e bem documentadas</p>
-      <p>🧠 Minha frase: “Tudo parece difícil... até a gente conseguir fazer pela primeira vez.”</p>
+      <p> “Tudo parece difícil... até a gente conseguir fazer pela primeira vez.”</p>
     </td>
     <td valign="top" width="40%" align="right">
-      <img src="3d.gif" width="400" />
+      <img src="3d.gif" width="500" />
     </td>
   </tr>
 </table>
