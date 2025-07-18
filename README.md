@@ -5,15 +5,27 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
+<h2>
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" />
+  About Me
+</h2>
 
-🙋‍♂️ Meu nome é **Diogenes do Carmo** <img src="3d.gif" width="400" align="right"/>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <p>🙋‍♂️ Meu nome é <strong>Diogenes do Carmo</strong></p>
+      <p>💻 Sou Analista de Segurança da Informação, com foco prático em DevSecOps</p>
+      <p>🛠️ Atuo na integração de segurança ao ciclo de desenvolvimento de software</p>
+      <p>📦 Trabalho com SAST, SCA e DAST em pipelines CI/CD usando GitHub Actions e Azure DevOps</p>
+      <p>🚀 Automatizo análises de segurança com integrações eficientes e bem documentadas</p>
+      <p>🧠 Minha frase: “Tudo parece difícil... até a gente conseguir fazer pela primeira vez.”</p>
+    </td>
+    <td valign="top" width="40%" align="right">
+      <img src="3d.gif" width="400" />
+    </td>
+  </tr>
+</table>
 
-💻 Sou Analista de Segurança da Informação, com foco prático em DevSecOps  
-🛠️ Atuo na integração de segurança ao ciclo de desenvolvimento de software  
-📦 Trabalho com SAST, SCA e DAST em pipelines CI/CD usando GitHub Actions e Azure DevOps  
-🚀 Automatizo análises de segurança com integrações eficientes e bem documentadas  
-🧠 Minha frase: “Tudo parece difícil... até a gente conseguir fazer pela primeira vez.”
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
