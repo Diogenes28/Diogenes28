@@ -5,12 +5,12 @@
 </div> 
 
 <div style="margin-bottom: 20px" align="center">
-  <h1 style="border-bottom: none; margin-bottom: 8px">
+  <h1 style="border-bottom: none; margin-bottom: 1px">
   </h1>
 </div>
 
 <h2 align="left">
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="" />
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" />
     Olá! Eu sou Diogenes do Carmo
 </h2>
 
