@@ -48,8 +48,6 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
 
 </div>
 
-
-
 <div align="center">
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
