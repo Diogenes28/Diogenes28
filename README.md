@@ -1,7 +1,7 @@
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&color=%2300FF00&size=25&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&color=%2300FF00&size=50&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
 </div>
 
 <br>
