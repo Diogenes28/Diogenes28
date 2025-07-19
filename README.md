@@ -1,5 +1,5 @@
-
-<div align="center">
+<img src = "3d.gif" width = "300px" align = "right">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&color=%2300FF00&size=30&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
 </div>
 
@@ -8,7 +8,6 @@
   Olá! Eu sou Diogenes do Carmo
 </h2>
 
-<img src = "3d.gif" width = "300px" align = "right">
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
