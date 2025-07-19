@@ -4,7 +4,6 @@
 
 <div style="margin-bottom: 20px" align="center">
   <h1 style="border-bottom: none; margin-bottom: 8px">
-    Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" />
   </h1>
 </div>
 
