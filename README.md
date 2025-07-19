@@ -5,9 +5,7 @@
 
 </div>
 
-<img src="https://github.com/diogenesdocarmo/portfolio/blob/main/3d.gif?raw=true" width="400" />
-
-
+<img align="right" alt="GIF" src="https://github.com/diogenesdocarmo/portfolio/blob/main/3d.gif?raw=true" width="400" />
 
 Sou Desenvolvedor Front-end e atuo como Analista de Cibersegurança, área pela qual tenho me apaixonado cada vez mais.
 
@@ -19,7 +17,7 @@ Prefiro continuar aprendendo, me desafiando e criando coisas interessantes que r
 
 Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de software (DevSecOps), com experiência em SAST, SCA e DAST, implementados em pipelines CI/CD utilizando GitHub Actions e Azure DevOps.
 
-"Tudo parece difícil... até conseguirmos fazer pela primeira vez".
+> _"Tudo parece difícil... até conseguirmos fazer pela primeira vez."_
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
