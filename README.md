@@ -1,8 +1,11 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&color=%2300FF00&size=30&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Diogenes+do+Carmo;Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
+</div>
 
-
-
+<div style="margin-bottom: 20px" align="center">
+  <h1 style="border-bottom: none; margin-bottom: 8px">
+    Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" />
+  </h1>
 </div>
 
 <img align="right" alt="GIF" src="https://github.com/diogenesdocarmo/portfolio/blob/main/3d.gif?raw=true" width="400" />
