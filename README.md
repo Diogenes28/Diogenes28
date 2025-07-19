@@ -112,3 +112,9 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2024 Tien Huynh tienhuynh-tn
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
