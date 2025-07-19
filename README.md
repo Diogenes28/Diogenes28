@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&color=%2300FF00&size=30&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Diogenes+do+Carmo;Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&color=%2300FF00&size=30&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
 </div>
 
 <div style="margin-bottom: 20px" align="center">
@@ -12,28 +12,40 @@
   Olá! Eu sou Diogenes do Carmo
 </h2>
 
-<table>
-  <tr>
-    <td valign="top" width="65%">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
+<div style="flex: 1; padding-right: 20px;">
+
+<p>
 Sou Desenvolvedor Front-end e atuo como Analista de Cibersegurança, área pela qual tenho me apaixonado cada vez mais.
+</p>
 
+<p>
 Aprendo rápido e adoro explorar novas tecnologias. Sou um defensor do desenvolvimento ágil de software, trabalho em equipe, código limpo e bem comentado.
+</p>
 
+<p>
 Sou uma pessoa organizada, dedicada e muito apaixonada pelo que faço. Costumo sempre concluir meu trabalho até o fim, nunca desistindo no meio do caminho.
+</p>
 
+<p>
 Prefiro continuar aprendendo, me desafiando e criando coisas interessantes que realmente importam. Busco desenvolver expertise em diversas áreas ao longo da minha carreira e estou sempre aberto a novas oportunidades.
+</p>
 
+<p>
 Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de software (DevSecOps), com experiência em SAST, SCA e DAST, implementados em pipelines CI/CD utilizando GitHub Actions e Azure DevOps.
+</p>
 
-> _"Tudo parece difícil... até conseguirmos fazer pela primeira vez."_
+<blockquote><em>"Tudo parece difícil... até conseguirmos fazer pela primeira vez."</em></blockquote>
 
-  </td>
-  <td valign="top" align="right" width="35%">
-    <img src="./.github/3d.gif" width="300" />
-  </td>
-  </tr>
-</table>
+</div>
+
+<div style="flex-shrink: 0;">
+  <img src="./.github/3d.gif" width="300" />
+</div>
+
+</div>
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
