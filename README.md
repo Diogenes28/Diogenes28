@@ -9,8 +9,8 @@
   </h1>
 </div>
 
-<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" />
 <h2 align="left">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" />
     Olá! Eu sou Diogenes do Carmo
 </h2>
 
