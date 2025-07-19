@@ -49,7 +49,10 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" 
+     title="GitHub" alt="GitHub" width="40" height="40" 
+     style="background-color: white; border-radius: 50%; padding: 5px; margin-right: 12px; box-shadow: 0 0 2px #ccc;">
+
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
      title="GitHub" alt="GitHub" width="40" height="40" 
      style="background-color: white; border-radius: 6px; padding: 5px; margin-right: 12px; box-shadow: 0 0 2px #ccc;">
