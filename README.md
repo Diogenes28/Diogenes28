@@ -1,68 +1,47 @@
-<img src = "3d.gif" width = "300px" align = "right">
+<img src="3d.gif" width="300px" align="right">
+
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&color=%2300FF00&size=25&center=true&vCenter=true&width=480&lines=Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
 </div>
 
 <br>
 
-<h2 align="left">
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" />
-  Olá! Eu sou Diogenes do Carmo
-</h2>
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" /> Olá! Eu sou Diogenes do Carmo
 
-
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-
-<div style="flex: 1; padding-right: 20px;">
-
-
-<!-- <img src = "3d.gif" width = "500px" align = "right"> -->
-
-<p>
 Sou Desenvolvedor Front-end e atuo como Analista de Cibersegurança, área pela qual tenho me apaixonado cada vez mais.
-</p>
 
-<p>
 Aprendo rápido e adoro explorar novas tecnologias. Sou um defensor do desenvolvimento ágil de software, trabalho em equipe, código limpo e bem comentado.
-</p>
 
-<p>
 Sou uma pessoa organizada, dedicada e muito apaixonada pelo que faço. Costumo sempre concluir meu trabalho até o fim, nunca desistindo no meio do caminho.
-</p>
 
-<p>
 Prefiro continuar aprendendo, me desafiando e criando coisas interessantes que realmente importam. Busco desenvolver expertise em diversas áreas ao longo da minha carreira e estou sempre aberto a novas oportunidades.
-</p>
 
-<p>
 Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de software (DevSecOps), com experiência em SAST, SCA e DAST, implementados em pipelines CI/CD utilizando GitHub Actions e Azure DevOps.
-</p>
 
-<blockquote><em>"Tudo parece difícil... até conseguirmos fazer pela primeira vez."</em></blockquote>
-
-</div>
-
-<div style="flex-shrink: 0;">
-  <img src="./.github/3d.gif" width="300" />
-</div>
-
-</div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Algumas linguagens e ferramentas
 <div align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
-     title="GitHub" alt="GitHub" width="50" height="60" 
-     style="background-color: white; border-radius: 6px; padding: 5px; margin-right: 12px; box-shadow: 0 0 2px #ccc;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="60" style="margin-right: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="60" style="margin-right: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="60" style="margin-right: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="60" style="margin-right: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="60" style="margin-right: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="60" style="margin-right: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="60" style="margin-right: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="60" style="margin-right: 12px;">       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure" width="50" height="60" style="margin-right: 12px;"> 
+  <blockquote><em>"Tudo parece difícil... até conseguirmos fazer pela primeira vez."</em></blockquote>
 </div>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px"> Algumas linguagens e ferramentas
+
+<div align="center">
+
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub" alt="GitHub" width="50" height="50" style="background-color: white; border-radius: 6px; padding: 5px; margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure" width="50" height="50" style="margin: 6px;">
+
+</div>
+
+---
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> Pode se conectar comigo em: 
 
@@ -71,13 +50,12 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/di%C3%B3genes-do-carmo-48044b187/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogenesdocarmo_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogenesdocarmo@gmail.com)
-  
+
 </div>
-<br>
+
+---
 
 <div align="center">
-
-### 📊 Snake comendo minhas contribuições
 
 ![snake svg](https://raw.githubusercontent.com/diogenes28/diogenes28/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
