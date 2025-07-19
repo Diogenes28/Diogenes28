@@ -1,7 +1,11 @@
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/>
 
+<!-- <img src = "3d.gif" width = "300px" align = "right"> -->
+
+<!-- https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ4N2MzZzk1NmRjaGN1am9xdjg5MGJ5ajdjYWxiaHlnZjN5anRzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=%36BCF7FF&size=35&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=%36BCF7FF&size=39&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
 </div>
 
 <br>
