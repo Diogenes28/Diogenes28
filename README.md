@@ -49,11 +49,6 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" 
-     title="GitHub" alt="GitHub" width="100" height="40" 
-     style="background-color: white; border-radius: 6px; padding: 5px; margin-right: 12px; box-shadow: 0 0 2px #ccc;">
-
-
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
      title="GitHub" alt="GitHub" width="40" height="40" 
      style="background-color: white; border-radius: 6px; padding: 5px; margin-right: 12px; box-shadow: 0 0 2px #ccc;">
@@ -64,13 +59,7 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" style="margin-right: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="margin-right: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40" style="margin-right: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" style="margin-right: 12px;">
-  
-  <!-- GitHub com fundo branco -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" 
-       title="GitHub" alt="GitHub" width="40" height="40" 
-       style="background-color: white; border-radius: 6px; padding: 5px; margin-right: 12px; box-shadow: 0 0 2px #ccc;">
-       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" style="margin-right: 12px;">       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure" width="40" height="40">
 </div>
 
