@@ -16,7 +16,7 @@
 <div style="flex: 1; padding-right: 20px;">
 
 
-<img src = "3d.gif" width = "500px" align = "right">
+<!-- <img src = "3d.gif" width = "500px" align = "right"> -->
 
 <p>
 Sou Desenvolvedor Front-end e atuo como Analista de Cibersegurança, área pela qual tenho me apaixonado cada vez mais.
