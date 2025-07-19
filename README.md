@@ -113,6 +113,5 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
   &copy; 2024 Tien Huynh tienhuynh-tn
 </div>
 
-### 🐍 Snake eating my contributions graph
+![snake svg](https://raw.githubusercontent.com/diogenes28/diogenes28/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
-![Snake animation](https://github.com/diogenes28/diogenes28/blob/output/github-contribution-grid-snake.svg)
