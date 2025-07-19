@@ -7,7 +7,14 @@
   </h1>
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/diogenesdocarmo/portfolio/blob/main/3d.gif?raw=true" width="400" />
+<h2 align="left">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" />
+  Olá! Eu sou Diogenes do Carmo
+</h2>
+
+<table>
+  <tr>
+    <td valign="top" width="65%">
 
 Sou Desenvolvedor Front-end e atuo como Analista de Cibersegurança, área pela qual tenho me apaixonado cada vez mais.
 
@@ -20,6 +27,13 @@ Prefiro continuar aprendendo, me desafiando e criando coisas interessantes que r
 Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de software (DevSecOps), com experiência em SAST, SCA e DAST, implementados em pipelines CI/CD utilizando GitHub Actions e Azure DevOps.
 
 > _"Tudo parece difícil... até conseguirmos fazer pela primeira vez."_
+
+  </td>
+  <td valign="top" align="right" width="35%">
+    <img src="./.github/3d.gif" width="300" />
+  </td>
+  </tr>
+</table>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
