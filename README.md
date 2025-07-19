@@ -49,6 +49,10 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
+     title="GitHub" alt="GitHub" width="40" height="40" 
+     style="background-color: white; border-radius: 6px; padding: 5px; margin-right: 12px; box-shadow: 0 0 2px #ccc;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="margin-right: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40" style="margin-right: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="margin-right: 12px;">
