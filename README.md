@@ -4,10 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&color=%2300FF00&size=30&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
 </div> 
 
-<div style="margin-bottom: 20px" align="center">
-  <h1 style="border-bottom: none; margin-bottom: 8px">
-  </h1>
-</div>
 
 <h2 align="left">
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" />
