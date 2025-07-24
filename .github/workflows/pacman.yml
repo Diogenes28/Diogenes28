@@ -1,4 +1,3 @@
-# .github/workflows/pacman.yml
 name: 🟡 Pac-Man Animation
 
 on:
@@ -9,19 +8,20 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Baixar arquivo SVG do Pac-Man
+      - name: Baixar pacman.svg
         run: |
           mkdir -p dist
           curl -L -o dist/pacman.svg https://raw.githubusercontent.com/denvercoder1/github-contribution-pacman/main/pacman.svg
 
-      - name: Publicar na branch output (sem apagar os outros arquivos)
+      - name: Publicar na branch output (sem apagar o arquivo da cobrinha)
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          keep_files: true  # ⬅️ ESSENCIAL para manter a snake.svg na branch output
+          keep_files: true
