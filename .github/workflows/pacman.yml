@@ -13,19 +13,15 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Baixar script do Pac-Man
-        run: |
-          mkdir -p pacman
-          curl -o pacman/pacman.svg https://raw.githubusercontent.com/denvercoder1/github-contribution-pacman/main/pacman.svg
-
-      - name: Copiar para pasta dist
+      - name: Baixar arquivo SVG do Pac-Man
         run: |
           mkdir -p dist
-          cp pacman/pacman.svg dist/
+          curl -L -o dist/pacman.svg https://raw.githubusercontent.com/denvercoder1/github-contribution-pacman/main/pacman.svg
 
-      - name: Publicar na branch output
+      - name: Publicar na branch output (sem apagar os outros arquivos)
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          keep_files: true  # ⬅️ ESSENCIAL para manter a snake.svg na branch output
