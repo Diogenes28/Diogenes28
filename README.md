@@ -8,13 +8,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=%36BCF7FF&size=39&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
 </div>
 
-### 🎮 Meus gráficos de contribuição animados
+##
+<p align="center">
+  <img src="https://github.com/Diogenes28/Diogenes28/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 
-🟡 Pac-Man:
-![Pac-Man](https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman-contribution-graph.svg)
+<p align="center">
+  <img src="https://github.com/Diogenes28/Diogenes28/blob/output/github-contribution-grid-pacman.svg" alt="Pacman animation">
+</p>
 
-🟢 Snake (modo escuro):
-![Snake](https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/github-contribution-grid-snake-dark.svg)
+---
+
+### 💡 Dica:
+Ambas as animações são atualizadas automaticamente via GitHub Actions!
 
 
 
