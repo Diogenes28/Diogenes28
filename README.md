@@ -18,6 +18,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman-contribution-graph.svg">
 </picture>
 
+##
+<div align="center">
+
+![snake svg](https://raw.githubusercontent.com/diogenes28/diogenes28/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+</div>
+
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" /> Olá! Eu sou Diogenes do Carmo
 
