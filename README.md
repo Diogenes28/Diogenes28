@@ -15,8 +15,11 @@
 ### 🐍 Snake
 ![Snake animation](https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/github-contribution-grid-snake.svg)
 
-### 🟡 Pac-Man
-<img src="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman.svg" width="700">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diogenes28/diogenes28/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diogenes28/diogenes28/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/diogenes28/diogenes28/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
