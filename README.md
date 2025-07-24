@@ -8,20 +8,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=%36BCF7FF&size=39&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
 </div>
 
-<br>
+<h2 align="center">🎮 Meus gráficos de contribuição animados</h2>
 
-##
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman-contribution-graph.svg">
-</picture>
-
-##
 <div align="center">
 
-![snake svg](https://raw.githubusercontent.com/diogenes28/diogenes28/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+🟡 Pac-Man:  
+<img src="https://raw.githubusercontent.com/diogenes28/diogenes28/output/dist/pacman/pacman-contribution-graph.svg" width="600">
+
+🐍 Snake (modo escuro):  
+<img src="https://raw.githubusercontent.com/diogenes28/diogenes28/output/dist/snake/github-contribution-grid-snake-dark.svg" width="600">
 
 </div>
 
