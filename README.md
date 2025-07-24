@@ -12,15 +12,14 @@
 <!-- 🐍 Snake animation -->
 <!--<img src="https://diogenes28.github.io/Diogenes28/github-contribution-grid-snake-dark.svg" width="100%" /> -->
 
-# Olá, eu sou o Diogenes! 👋
+# Bem-vindo ao meu perfil!
 
-Bem-vindo ao meu perfil! Aqui estão duas animações legais com meu gráfico de contribuições:
-
-### 🐍 Snake Game
+### 🐍 Snake animation
 ![Snake animation](https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/github-contribution-grid-snake.svg)
 
-### 🟡 Pac-Man
-![Pacman animation](https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman.svg)
+### 🟡 Pac-Man animation
+<img src="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman.svg" width="700">
+
 
 
 
