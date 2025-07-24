@@ -9,18 +9,22 @@
 </div>
 
 ##
-<p align="center">
-  <img src="https://github.com/Diogenes28/Diogenes28/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
 
-<p align="center">
-  <img src="https://github.com/Diogenes28/Diogenes28/blob/output/github-contribution-grid-pacman.svg" alt="Pacman animation">
-</p>
+### 🎮 Meus gráficos de contribuição divertidos:
+
+<div align="center">
+
+<!-- Snake em modo escuro -->
+<img src="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/dist/snake/github-contribution-grid-snake-dark.svg" width="700" alt="Snake Animation">
+
+<!-- Pacman -->
+<img src="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/dist/pacman/pacman-contribution-graph.svg" width="700" alt="Pacman Animation">
+
+</div>
 
 ---
 
-### 💡 Dica:
-Ambas as animações são atualizadas automaticamente via GitHub Actions!
+✨ Atualizados automaticamente todos os dias via GitHub Actions!
 
 
 
