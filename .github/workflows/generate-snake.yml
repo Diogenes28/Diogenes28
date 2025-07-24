@@ -1,0 +1,42 @@
+name: Generate Snake and Pac-Man Animations
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa todo dia à meia-noite UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    name: Generate SVG animations
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Gerar Snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Diogenes28
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+      - name: Gerar Pac-Man.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Diogenes28
+          outputs: |
+            dist/github-contribution-grid-pacman.svg
+        env:
+          MODE: pacman  # ← define modo pacman para gerar outro tipo de animação
+
+      - name: Publicar na branch `output`
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
