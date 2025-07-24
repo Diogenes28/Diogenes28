@@ -9,8 +9,8 @@
 </div>
 
 
-🐍 Snake animation 
-<img src="https://diogenes28.github.io/Diogenes28/github-contribution-grid-snake-dark.svg" width="100%" /> 
+<!-- 🐍 Snake animation 
+<img src="https://diogenes28.github.io/Diogenes28/github-contribution-grid-snake-dark.svg" width="100%" /> -->
 
 
 <picture>
