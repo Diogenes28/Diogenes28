@@ -11,7 +11,7 @@
 ##
 
 <!-- 🐍 Snake animation -->
-<img src="https://diogenes28.github.io/Diogenes28/github-contribution-grid-snake-dark.svg" width="100%" />
+<!--<img src="https://diogenes28.github.io/Diogenes28/github-contribution-grid-snake-dark.svg" width="100%" /> -->
 
 <!-- 🟡 Pac-Man animation -->
 <img src="https://diogenes28.github.io/Diogenes28/github-contribution-grid-pacman.svg" width="100%" />
