@@ -8,17 +8,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=%36BCF7FF&size=39&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
 </div>
 
-<h2 align="center">🎮 Meus gráficos de contribuição animados</h2>
+### 🎮 Meus gráficos de contribuição animados
 
-<div align="center">
+🟡 Pac-Man:
+![Pac-Man](https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman-contribution-graph.svg)
 
-🟡 Pac-Man:  
-<img src="https://raw.githubusercontent.com/diogenes28/diogenes28/output/dist/pacman/pacman-contribution-graph.svg" width="600">
+🟢 Snake (modo escuro):
+![Snake](https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/github-contribution-grid-snake-dark.svg)
 
-🐍 Snake (modo escuro):  
-<img src="https://raw.githubusercontent.com/diogenes28/diogenes28/output/dist/snake/github-contribution-grid-snake-dark.svg" width="600">
-
-</div>
 
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" /> Olá! Eu sou Diogenes do Carmo
