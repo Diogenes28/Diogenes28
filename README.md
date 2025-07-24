@@ -64,6 +64,13 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogenesdocarmo_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogenesdocarmo@gmail.com)
 
+##
+</div>
+
+<div align="center">
+
+![snake svg](https://raw.githubusercontent.com/diogenes28/diogenes28/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 </div>
 
 
