@@ -8,18 +8,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=%36BCF7FF&size=39&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
 </div>
 
-##
 
 <!-- 🐍 Snake animation -->
 <!--<img src="https://diogenes28.github.io/Diogenes28/github-contribution-grid-snake-dark.svg" width="100%" /> -->
 
-<!-- 🟡 Pac-Man animation -->
-<img src="https://diogenes28.github.io/Diogenes28/github-contribution-grid-pacman.svg" width="100%" />
+# Olá, eu sou o Diogenes! 👋
 
+Bem-vindo ao meu perfil! Aqui estão duas animações legais com meu gráfico de contribuições:
 
----
+### 🐍 Snake Game
+![Snake animation](https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/github-contribution-grid-snake.svg)
 
-✨ Atualizados automaticamente todos os dias via GitHub Actions!
+### 🟡 Pac-Man
+![Pacman animation](https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman.svg)
 
 
 
