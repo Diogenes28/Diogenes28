@@ -1,29 +1,29 @@
+# .github/workflows/pacman.yml
 name: 🟡 Pac-Man Animation
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # roda todo dia 1h da manhã UTC
+    - cron: "30 0 * * *"  # roda todo dia às 00h30 UTC
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout do repositório
+      - name: Checkout do código
         uses: actions/checkout@v3
 
-      - name: Baixar pacman.svg corretamente
-        run: |
-          mkdir -p dist
-          curl -L https://raw.githubusercontent.com/denvercoder1/github-contribution-pacman/main/pacman.svg -o dist/pacman.svg
-          file dist/pacman.svg
-          cat dist/pacman.svg | head -n 5
+      - name: Gerar pacman.svg baseado no seu gráfico
+        uses: abozanona/pacman-contribution-graph@v1.2
+        with:
+          user: Diogenes28
+          output_file: dist/pacman.svg
 
-      - name: Publicar na branch output (sem apagar o arquivo da cobrinha)
+      - name: Publicar na branch output
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: dist
           publish_branch: output
           keep_files: true
