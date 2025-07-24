@@ -10,6 +10,14 @@
 
 <br>
 
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman-contribution-graph.svg">
+</picture>
+
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" /> Olá! Eu sou Diogenes do Carmo
 
 Sou Desenvolvedor Front-end e atuo como Analista de Cibersegurança, área pela qual tenho me apaixonado cada vez mais.
@@ -58,10 +66,4 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
 
 </div>
 
----
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman-contribution-graph.svg">
-</picture>
