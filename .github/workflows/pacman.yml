@@ -1,0 +1,31 @@
+# .github/workflows/pacman.yml
+name: 🟡 Pac-Man Animation
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # roda todo dia 1h da manhã UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Baixar script do Pac-Man
+        run: |
+          mkdir -p pacman
+          curl -o pacman/pacman.svg https://raw.githubusercontent.com/denvercoder1/github-contribution-pacman/main/pacman.svg
+
+      - name: Copiar para pasta dist
+        run: |
+          mkdir -p dist
+          cp pacman/pacman.svg dist/
+
+      - name: Publicar na branch output
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
