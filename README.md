@@ -1,17 +1,23 @@
+<!-- Adiciona uma imagem animada (GIF) do lado direito com largura de 130px -->
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='130'/>
 
+<!-- Esse é um exemplo de imagem comentada, não será exibida na página -->
 <!-- <img src = "3d.gif" width = "300px" align = "right"> -->
 
+<!-- Comentário com o link direto do GIF usado acima, para referência futura -->
 <!-- https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ4N2MzZzk1NmRjaGN1am9xdjg5MGJ5ajdjYWxiaHlnZjN5anRzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif -->
 
+<!-- Centraliza uma imagem com texto animado de boas-vindas -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&color=%36BCF7FF&size=39&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
 </div>
 
+<!-- Linha em branco -->
 <br>
 
 ##
 
+<!-- Mostra o gráfico do Pac-Man comendo os contributions (modo claro e escuro) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diogenes28/Diogenes28/output/pacman-contribution-graph.svg">
@@ -19,15 +25,16 @@
 </picture>
 
 ##
+
+<!-- Centraliza o gráfico Snake (cobra que percorre os quadradinhos de contribuição do GitHub) -->
 <div align="center">
-
-![snake svg](https://raw.githubusercontent.com/diogenes28/diogenes28/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
+  ![snake svg](https://raw.githubusercontent.com/diogenes28/diogenes28/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 </div>
 
-
+<!-- Título da seção e apresentação pessoal com GIF de aceno -->
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" /> Olá! Eu sou Diogenes do Carmo
 
+<!-- Descrição pessoal sobre carreira, gostos e área de atuação -->
 Sou Desenvolvedor Front-end e atuo como Analista de Cibersegurança, área pela qual tenho me apaixonado cada vez mais.
 
 Aprendo rápido e adoro explorar novas tecnologias. Sou um defensor do desenvolvimento ágil de software, trabalho em equipe, código limpo e bem comentado.
@@ -38,16 +45,20 @@ Prefiro continuar aprendendo, me desafiando e criando coisas interessantes que r
 
 Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de software (DevSecOps), com experiência em SAST, SCA e DAST, implementados em pipelines CI/CD utilizando GitHub Actions e Azure DevOps.
 
+<!-- Frase motivacional centralizada -->
 <div align="center">
   <blockquote><em>"Tudo parece difícil... até conseguirmos fazer pela primeira vez."</em></blockquote>
 </div>
 
 ---
 
+<!-- Título da seção com GIF animado de teclado -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px"> Algumas linguagens e ferramentas
 
+<!-- Ícones das linguagens e ferramentas que você domina -->
 <div align="center">
 
+  <!-- Cada ícone tem: link da imagem, título (tooltip), alt, tamanho e margem -->
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub" alt="GitHub" width="50" height="50" style="background-color: white; border-radius: 6px; padding: 5px; margin: 6px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50" style="margin: 6px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50" style="margin: 6px;">
@@ -64,13 +75,16 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
 
 ---
 
+<!-- Seção de contato com GIF de aperto de mão -->
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> Pode se conectar comigo em: 
 
+<!-- Botões centralizados de redes sociais com links -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/di%C3%B3genes-do-carmo-48044b187/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogenesdocarmo_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogenesdocarmo@gmail.com)
+
 
 
 
