@@ -1,4 +1,4 @@
-<img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/>
+<img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='130'/>
 
 <!-- <img src = "3d.gif" width = "300px" align = "right"> -->
 
