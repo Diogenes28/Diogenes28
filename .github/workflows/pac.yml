@@ -1,57 +1,35 @@
-# Este workflow gera um gráfico animado estilo "Pac-Man"
-# com base no histórico de contribuições do usuário no GitHub,
-# e publica o resultado no branch "output" para ser exibido no README.md.
+name: Generate Pacman Game
 
-
-# Nome do workflow (aparece na aba "Actions")
-name: generate pacman game
-
-# Gatilhos (quando o workflow será executado)
 on:
-  schedule: 
-    # Executa automaticamente a cada 24 horas (todos os dias à meia-noite)
+  schedule:
     - cron: "0 */24 * * *"
-
-  # Permite que o workflow seja executado manualmente pelo botão "Run workflow"
   workflow_dispatch:
-
-  # Executa o workflow sempre que alguém fizer um "push" (commit) na branch "main"
   push:
     branches:
       - main
 
 jobs:
-  generate:  # Nome do job principal
-    # Permissão necessária para fazer commit no repositório (escrever no branch de saída)
+  generate:
     permissions:
       contents: write
-
-    # Define o sistema operacional usado para rodar os comandos (máquina virtual Linux)
     runs-on: ubuntu-latest
-
-    # Tempo máximo permitido para o job executar (em minutos)
     timeout-minutes: 5
 
     steps:
-      # Etapa 1: gerar o arquivo SVG animado do Pac-Man com base no gráfico de contribuições
-      - name: generate pacman-contribution-graph.svg
-        # Usa a ação criada por @abozanona que gera o gráfico animado do Pac-Man
+      - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          # Nome do usuário do GitHub que será usado para gerar o gráfico
           github_user_name: ${{ github.repository_owner }}
 
-      # Etapa 2: publicar o arquivo SVG gerado no branch "output" do repositório
-      - name: push pacman-contribution-graph.svg to the output branch
-        # Usa uma ação que envia arquivos para outro branch (nesse caso, "output")
+      - name: Move SVG to pacman folder
+        run: |
+          mkdir -p dist/pacman
+          mv dist/pacman-contribution-graph.svg dist/pacman/
+
+      - name: Push Pacman SVG to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # Nome do branch de destino (onde o SVG será salvo)
           target_branch: output
-
-          # Pasta onde o SVG gerado está localizado
-          build_dir: dist
-
+          build_dir: dist/pacman
         env:
-          # Token de autenticação para que a ação possa fazer o push
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
