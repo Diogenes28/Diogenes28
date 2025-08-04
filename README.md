@@ -31,7 +31,7 @@ Sou uma pessoa organizada, dedicada e muito apaixonada pelo que faço. Costumo s
 
 Prefiro continuar aprendendo, me desafiando e criando coisas interessantes que realmente importam. Busco desenvolver expertise em diversas áreas ao longo da minha carreira e estou sempre aberto a novas oportunidades.
 
-Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de software (DevSecOps), com experiência em SAST, SCA e DAST, implementados em pipelines CI/CD utilizando GitHub Actions e Azure DevOps.
+Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de software (DevSecOps), com experiência em SAST, SCA e DAST, implementados em pipelines CI/CD utilizando GitHub Actions, Azure DevOps e GitLab.
 
 <div align="center">
   <blockquote><em>"Tudo parece difícil... até conseguirmos fazer pela primeira vez."</em></blockquote>
