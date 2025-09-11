@@ -1,5 +1,5 @@
 name: 👾 Pac-Man Animation
-
+ 
 on:
   schedule:
     - cron: "0 0 * * *" # roda todo dia à meia-noite UTC
