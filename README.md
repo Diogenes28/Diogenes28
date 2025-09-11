@@ -13,12 +13,11 @@
 <img src="https://diogenes28.github.io/Diogenes28/github-contribution-grid-snake-dark.svg" width="100%" /> -->
 
 
- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diogenes28/diogenes28/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diogenes28/diogenes28/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/diogenes28/diogenes28/output/pacman-contribution-graph.svg">
 </picture> 
-
 
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" /> Olá! Eu sou Diogenes do Carmo
