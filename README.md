@@ -57,6 +57,8 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
   
 </div>
 
+...
+
 ---
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> Pode se conectar comigo em: 
@@ -66,3 +68,20 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/di%C3%B3genes-do-carmo-48044b187/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogenesdocarmo_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogenesdocarmo@gmail.com)
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🔐 [Login Inseguro](https://github.com/Diogenes28/login-inseguro)
+Aplicação vulnerável criada para demonstração de **DevSecOps** com **GitHub Actions** e integração com **Veracode**.
+
+![Veracode Upload Scan](https://github.com/Diogenes28/login-inseguro/actions/workflows/veracode-upload-scan.yml/badge.svg)
+![Veracode Pipeline Scan](https://github.com/Diogenes28/login-inseguro/actions/workflows/veracode-pipeline-scan.yml/badge.svg)
+![Deploy GitHub Pages](https://github.com/Diogenes28/login-inseguro/actions/workflows/deploy-github-pages.yml/badge.svg)
+[![Code Scanning - GitHub](https://img.shields.io/badge/Code%20Scanning-Active-brightgreen)](https://github.com/Diogenes28/login-inseguro/security/code-scanning)
+![License](https://img.shields.io/github/license/Diogenes28/login-inseguro)
+
+👉 [Ver aplicação rodando](https://diogenes28.github.io/login-inseguro)
