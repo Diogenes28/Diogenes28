@@ -40,45 +40,22 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px"> Algumas linguagens e ferramentas
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
-
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub" alt="GitHub" width="50" height="50" style="background-color: white; border-radius: 6px; padding: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="50" height="50">
-
-  <!-- GIF animado com efeito de flutuação -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWg4N3MyajV3MnFvZnQ5NTNtMzM2cXBzMXVmYTFna2pkazlwcmdrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JxtrIHKVMy03BmNH4a/giphy.gif" 
-       title="GIF Animado" alt="GIF Animado" width="50" height="50" class="floating">
-
-</div>
-
-<style>
-  /* efeito de flutuação suave */
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-8px); }
-    100% { transform: translateY(0px); }
-  }
-
-  .floating {
-    animation: float 2s ease-in-out infinite;
-  }
-
-  /* opcional: efeito de zoom suave */
-  .floating:hover {
-    transform: scale(1.2);
-    transition: transform 0.3s ease-in-out;
-  }
-</style>
+  <div align="center"> 
+    
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub" alt="GitHub" width="50" height="50" style="background-color: white; border-radius: 6px; padding: 5px; margin: 6px;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50" style="margin: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50" style="margin: 6px;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50" style="margin: 6px;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50" style="margin: 6px;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50" style="margin: 6px;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="margin: 6px;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50" style="margin: 6px;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50" style="margin: 6px;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure" width="50" height="50" style="margin: 6px;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="50" height="50" style="margin: 6px;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="50" height="50" style="margin: 6px;">
+  
+  </div>
 
 
 ---
@@ -92,18 +69,3 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogenesdocarmo@gmail.com)
 
 </div>
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🔐 [Login Inseguro](https://github.com/Diogenes28/login-inseguro)
-Aplicação vulnerável criada para demonstração de **DevSecOps** com **GitHub Actions** e integração com **Veracode**.
-
-![Veracode Upload Scan](https://github.com/Diogenes28/login-inseguro/actions/workflows/veracode-upload-scan.yml/badge.svg)
-![Veracode Pipeline Scan](https://github.com/Diogenes28/login-inseguro/actions/workflows/veracode-pipeline-scan.yml/badge.svg)
-![Deploy GitHub Pages](https://github.com/Diogenes28/login-inseguro/actions/workflows/deploy-github-pages.yml/badge.svg)
-[![Code Scanning - GitHub](https://img.shields.io/badge/Code%20Scanning-Active-brightgreen)](https://github.com/Diogenes28/login-inseguro/security/code-scanning)
-![License](https://img.shields.io/github/license/Diogenes28/login-inseguro)
-
-👉 [Ver aplicação rodando](https://diogenes28.github.io/login-inseguro)
