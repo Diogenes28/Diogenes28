@@ -55,10 +55,8 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="50" height="50" style="margin: 6px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="50" height="50" style="margin: 6px;">
   <img src="https://github.com/user-attachments/assets/03304d6b-ad43-417e-9bba-191339b51af8" title="Docker" alt="Docker" width="50" height="50" style="margin: 6px;">
-  <img src="https://github.com/user-attachments/assets/92076d8e-b11b-4a67-b8aa-bda4aa1ee893" title="hub" alt="hub" width="50" height="50" style="margin: 6px;">
   <img src="https://github.com/user-attachments/assets/c7122a7b-3576-45a2-858e-15f166f7b5ac" title="GitHubIronMan" alt="GitHubIronMan" width="55" height="50" style="margin: 6px;">
-  <img src="https://github.com/user-attachments/assets/fd7139ff-251a-452d-945b-e891125af403" title="GitLab" alt="GitLab" width="50" height="50" style="margin: 6px;">
-      
+        
   </div>
 
 
