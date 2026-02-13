@@ -26,7 +26,7 @@ Sou Desenvolvedor Front-end e atuo como Analista de Cibersegurança, área pela 
 
 Aprendo rápido e adoro explorar novas tecnologias. Sou um defensor do desenvolvimento ágil de software, trabalho em equipe, código limpo e bem comentado.
 
-Sou uma pessoa organizada, dedicada e muito apaixonada pelo que faço. Costumo sempre concluir meu trabalho até o fim, nunca desistindo no meio do caminho.
+Sou uma pessoa organizada, dedicada e apaixonada pelo que faço. Costumo sempre concluir meu trabalho até o fim, nunca desistindo no meio do caminho.
 
 Prefiro continuar aprendendo, me desafiando e criando coisas interessantes que realmente importam. Busco desenvolver expertise em diversas áreas ao longo da minha carreira e estou sempre aberto a novas oportunidades.
 
