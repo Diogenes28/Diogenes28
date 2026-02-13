@@ -62,24 +62,25 @@ DevSecOps • AppSec • CI/CD • Cloud
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px"> Algumas linguagens e ferramentas
 
   <div align="center">
-  
+    
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3gyeTd0bTQ4cm5hcjI0b3NnYmJucjR4cXc1Njh3aHJwbzR1MXg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" title="GitHubIronMan" alt="GitHubIronMan" width="55" height="50" style="margin: 6px;">
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG15cDdxd3E1ZjF5eW13cm8yamN6MnNsaHBzOHg5bGgzb29udjFyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" title="GitHubIronMan" alt="GitHubIronMan" width="55" height="50" style="margin: 6px;">
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpxZHkzdmVwMXI4Znc3MThtOGdqeWNqcDExOXE0MTA5dDUycXp3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" title="GitHubIronMan" alt="GitHubIronMan" width="55" height="50" style="margin: 6px;">
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnIyaGNyemd6ejNpY3I2cGxlZm5jdXd6cmRvc3JyZXdxcXJqcjBlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" title="GitHubIronMan" alt="GitHubIronMan" width="55" height="50" style="margin: 6px;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG84enFsa2hmNGFlaDQ0NzY5ajJzNGlmZDA4ZXB5ejRtcTJ1ZTBjdyZlcD12MV9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" title="css" alt="css" width="60" height="80" style="margin: 6px;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcydmc5dDZreTVhOGZscGc1eXYyZzBseDhvZDgzNG96NHl5YnlnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" title="html" alt="html" width="60" height="80" style="margin: 6px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5pODFoaGR6cHdqbmt2dHMzbTkzbjlidmFwbndnMzhhdDB5amp4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDcpPX8vWahUny0pE/giphy.gif" title="2" alt="2" width="80" height="80" style="margin: 6px;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhlbGo4ZmF3a3ZoeGllcGsxYjZzN21sbWZtb2x0Mnlrd2t5bm10eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" title="3" alt="3" width="80" height="80" style="margin: 6px;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTYxdDF2b3B6dGxzNXlmaWFvaHlyOXZnZGt2YzRoMDdmazA0NHk0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hqrdSW7r1DFsDZwSnR/giphy.gif" title="GitLab" alt="GitLab" width="60" height="80" style="margin: 6px;>
+    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure" width="50" height="50" style="margin: 6px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="50" height="50" style="margin: 6px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50" style="margin: 6px;"> 
   <img src="https://github.com/user-attachments/assets/03304d6b-ad43-417e-9bba-191339b51af8" title="Docker" alt="Docker" width="50" height="50" style="margin: 6px;">
   <img src="https://github.com/user-attachments/assets/c7122a7b-3576-45a2-858e-15f166f7b5ac" title="GitHubIronMan" alt="GitHubIronMan" width="55" height="50" style="margin: 6px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3gyeTd0bTQ4cm5hcjI0b3NnYmJucjR4cXc1Njh3aHJwbzR1MXg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" title="GitHubIronMan" alt="GitHubIronMan" width="55" height="50" style="margin: 6px;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG15cDdxd3E1ZjF5eW13cm8yamN6MnNsaHBzOHg5bGgzb29udjFyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" title="GitHubIronMan" alt="GitHubIronMan" width="55" height="50" style="margin: 6px;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpxZHkzdmVwMXI4Znc3MThtOGdqeWNqcDExOXE0MTA5dDUycXp3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" title="GitHubIronMan" alt="GitHubIronMan" width="55" height="50" style="margin: 6px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnIyaGNyemd6ejNpY3I2cGxlZm5jdXd6cmRvc3JyZXdxcXJqcjBlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" title="GitHubIronMan" alt="GitHubIronMan" width="55" height="50" style="margin: 6px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG84enFsa2hmNGFlaDQ0NzY5ajJzNGlmZDA4ZXB5ejRtcTJ1ZTBjdyZlcD12MV9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" title="css" alt="css" width="60" height="80" style="margin: 6px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcydmc5dDZreTVhOGZscGc1eXYyZzBseDhvZDgzNG96NHl5YnlnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" title="html" alt="html" width="60" height="80" style="margin: 6px;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5pODFoaGR6cHdqbmt2dHMzbTkzbjlidmFwbndnMzhhdDB5amp4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDcpPX8vWahUny0pE/giphy.gif" title="2" alt="2" width="80" height="80" style="margin: 6px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhlbGo4ZmF3a3ZoeGllcGsxYjZzN21sbWZtb2x0Mnlrd2t5bm10eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" title="3" alt="3" width="80" height="80" style="margin: 6px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTYxdDF2b3B6dGxzNXlmaWFvaHlyOXZnZGt2YzRoMDdmazA0NHk0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hqrdSW7r1DFsDZwSnR/giphy.gif" title="GitLab" alt="GitLab" width="60" height="80" style="margin: 6px;
-    
-    
-  </div>
+  
+  <div/>
+
 
 ---
 
