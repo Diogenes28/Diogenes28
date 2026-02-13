@@ -41,7 +41,7 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px"> Algumas linguagens e ferramentas
 
   <div align="center">
-    
+
   <img src="https://github.com/user-attachments/assets/fe3a33d3-3496-4350-a696-165ba3d79f92" title="Docker" alt="Docker" width="100" height="100" style="margin: 6px;">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub" alt="GitHub" width="50" height="50" style="background-color: white; border-radius: 6px; padding: 5px; margin: 6px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50" style="margin: 6px;">
@@ -55,10 +55,7 @@ Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure" width="50" height="50" style="margin: 6px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="50" height="50" style="margin: 6px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="50" height="50" style="margin: 6px;">
-  <img src="https://github.com/user-attachments/assets/fe3a33d3-3496-4350-a696-165ba3d79f92" title="Docker" alt="Docker" width="100" height="100" style="margin: 6px;">
-
-
-  
+  <img src="https://github.com/user-attachments/assets/d0e15c4f-abae-47b4-a200-d74861b8abcf" title="Docker" alt="Docker" width="80" height="80" style="margin: 6px;">
   
   </div>
 
