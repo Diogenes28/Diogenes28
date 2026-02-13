@@ -22,15 +22,21 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" /> Olá! Eu sou Diogenes do Carmo
 
-Sou Desenvolvedor Front-end e atuo como Analista de Cibersegurança, área pela qual tenho me apaixonado cada vez mais.
+<h4 align="center">
+Front-end Developer & Analista de Cibersegurança<br>
+DevSecOps • AppSec • CI/CD • Cloud
+</h4>
 
-Aprendo rápido e adoro explorar novas tecnologias. Sou um defensor do desenvolvimento ágil de software, trabalho em equipe, código limpo e bem comentado.
+🔐 Atuo como **Analista de Cibersegurança** com foco em **AppSec e DevSecOps**  
+💻 Experiência em **Front-end Development**  
+🚀 Apaixonado por automação, segurança e boas práticas  
 
-Sou uma pessoa organizada, dedicada e apaixonada pelo que faço. Costumo sempre concluir meu trabalho até o fim, nunca desistindo no meio do caminho.
+**Principais áreas de atuação:**
+- Integração de segurança no SDLC (DevSecOps)
+- SAST, SCA e DAST
+- Pipelines CI/CD (GitHub Actions, Azure DevOps, GitLab)
+- Código limpo, versionamento e automação
 
-Prefiro continuar aprendendo, me desafiando e criando coisas interessantes que realmente importam. Busco desenvolver expertise em diversas áreas ao longo da minha carreira e estou sempre aberto a novas oportunidades.
-
-Atuo na integração de práticas de segurança ao ciclo de desenvolvimento de software (DevSecOps), com experiência em SAST, SCA e DAST, implementados em pipelines CI/CD utilizando GitHub Actions, Azure DevOps e GitLab.
 
 <div align="center">
   <blockquote><em>"Tudo parece difícil... até conseguirmos fazer pela primeira vez."</em></blockquote>
