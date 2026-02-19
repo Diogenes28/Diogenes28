@@ -78,12 +78,12 @@ DevSecOps • AppSec • CI/CD • Cloud
     
  
   
-  ---
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="50" height="50" style="margin: 6px;"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50" style="margin: 6px;">
-  <img src="https://github.com/user-attachments/assets/03304d6b-ad43-417e-9bba-191339b51af8" title="Docker" alt="Docker" width="50" height="50" style="margin: 6px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure" width="50" height="50" style="margin: 6px;">
-  <img src="https://github.com/user-attachments/assets/c7122a7b-3576-45a2-858e-15f166f7b5ac" title="GitHubIronMan" alt="GitHubIronMan" width="55" height="50" style="margin: 6px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="50" height="50" style="margin: 6px;"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50" style="margin: 6px;">
+<img src="https://github.com/user-attachments/assets/03304d6b-ad43-417e-9bba-191339b51af8" title="Docker" alt="Docker" width="50" height="50" style="margin: 6px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure" width="50" height="50" style="margin: 6px;">
+<img src="https://github.com/user-attachments/assets/c7122a7b-3576-45a2-858e-15f166f7b5ac" title="GitHubIronMan" alt="GitHubIronMan" width="55" height="50" style="margin: 6px;">
     
   </div>
 
