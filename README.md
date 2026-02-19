@@ -76,15 +76,9 @@ DevSecOps • AppSec • CI/CD • Cloud
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhlbGo4ZmF3a3ZoeGllcGsxYjZzN21sbWZtb2x0Mnlrd2t5bm10eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" title="Git" alt="Git" width="80" height="80" style="margin: 6px;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTYxdDF2b3B6dGxzNXlmaWFvaHlyOXZnZGt2YzRoMDdmazA0NHk0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hqrdSW7r1DFsDZwSnR/giphy.gif" title="GitLab" alt="GitLab" width="60" height="80" style="margin: 6px;>
     
-  
-  
+ 
   
   ---
-  
-  
-  
-  
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="50" height="50" style="margin: 6px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50" style="margin: 6px;">
   <img src="https://github.com/user-attachments/assets/03304d6b-ad43-417e-9bba-191339b51af8" title="Docker" alt="Docker" width="50" height="50" style="margin: 6px;">
