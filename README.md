@@ -72,10 +72,6 @@ DevSecOps • AppSec • CI/CD • Cloud
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5pODFoaGR6cHdqbmt2dHMzbTkzbjlidmFwbndnMzhhdDB5amp4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDcpPX8vWahUny0pE/giphy.gif" title="Php" alt="Php" width="80" height="80" style="margin: 6px;">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhlbGo4ZmF3a3ZoeGllcGsxYjZzN21sbWZtb2x0Mnlrd2t5bm10eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" title="Git" alt="Git" width="80" height="80" style="margin: 6px;">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTYxdDF2b3B6dGxzNXlmaWFvaHlyOXZnZGt2YzRoMDdmazA0NHk0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hqrdSW7r1DFsDZwSnR/giphy.gif" title="GitLab" alt="GitLab" width="60" height="80" style="margin: 6px;>
-    
- 
-  
-
 <img src="https://github.com/user-attachments/assets/c7122a7b-3576-45a2-858e-15f166f7b5ac" title="NãoPrecisaUseiParaODebaixoAparecer" alt="NãoPrecisa" width="55" height="50" style="margin: 6px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="50" height="50" style="margin: 6px;"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50" style="margin: 6px;">
